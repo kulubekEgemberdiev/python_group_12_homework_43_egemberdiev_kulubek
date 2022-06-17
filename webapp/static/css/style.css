@@ -9,3 +9,14 @@ h1{
     font-size: 60px;
     color: midnightblue;
 }
+
+.link{
+    text-decoration: none;
+    color: darkred;
+}
+
+.body_content{
+    font-size: 100px;
+    color: black;
+    font-weight: bolder;
+}
