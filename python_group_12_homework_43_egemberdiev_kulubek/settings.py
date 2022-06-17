@@ -55,7 +55,7 @@ ROOT_URLCONF = 'python_group_12_homework_43_egemberdiev_kulubek.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates']
+        'DIRS': [BASE_DIR / 'webapp/templates']
         ,
         'APP_DIRS': True,
         'OPTIONS': {
